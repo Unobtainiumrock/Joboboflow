@@ -1,6 +1,8 @@
 # JoboboFlow
 JoboboFlow aids users in their job hunting process by providing tracking & data visualization tools. 
 
+[Deployed Site Link](https://jobobo-flow.herokuapp.com/)
+
 <img src="./README/landing-page.PNG">
 
 ## Features
@@ -122,7 +124,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Cats Meowing kittykuma.com
-* Unobtainiumrock Industries ®
+* [Unobtainiumrock Industries ®](https://unobtainiumrock.github.io/portfolio-revamp/)
 * [Alexandra Goodwin](https://github.com/alexgood1)
 * [Hannah Lim](https://github.com/hannahlim213)
 
